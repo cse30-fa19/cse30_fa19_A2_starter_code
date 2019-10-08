@@ -1,1 +1,3 @@
-# cse30_fa19_A2_starter_code
+# CSE30 FA19 Assignment2 README
+
+/* TODO: fill out README with name, PID, sources of help */
