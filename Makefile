@@ -20,7 +20,6 @@ no_warnings : $(OBJS)
 	gcc -o $(EXE) $(OBJS)
 
 yoda.o : yoda.c
-	gcc -c $@ yoda.c
 
 clean :
 	rm $(EXE)
